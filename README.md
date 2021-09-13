@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Discord: Grafcube#2427  
+Matrix: @grafcube:matrix.org
+
 <!--
 **Grafcube/Grafcube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
