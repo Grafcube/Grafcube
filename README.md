@@ -1,4 +1,4 @@
-### Hi there 👋
+### Moved to Codeberg
 
 Check out my projects on Codeberg: <https://codeberg.org/grafcube>
 
